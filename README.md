@@ -2,9 +2,9 @@
 
 ## このリポジトリについて
 
-このリポジトリは、[@Salicylic-acid3さん](https://github.com/Salicylic-acid3)が作成した[KiCAD用のフットプリントを管理するためのリポジトリ](https://github.com/Salicylic-acid3/KiCAD_FootPrint)のフォークです。
+このリポジトリは、[@Salicylic-acid3さん](https://github.com/Salicylic-acid3)が作成した[KiCAD用のフットプリント](https://github.com/Salicylic-acid3/KiCAD_FootPrint)のフォークです。
 
-Choc v2のフットプリントをMXからコピーして追加しました。
+Choc v2をMXからコピーして追加しました。
 
 ## KiCadライブラリの管理
 
